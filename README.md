@@ -3,9 +3,10 @@
 This project is a static blog landing page built using HTML, CSS, and JavaScript. It includes a layout for displaying blog posts and a modal window for viewing detailed content.
 
 ## Technologies Used
-HTML: Structure of the page.
-CSS: Styling and layout.
-JavaScript: Dynamic content loading and modal functionality.
+1. HTML: Structure of the page.
+2. CSS: Styling and layout.
+3. JavaScript: Dynamic content loading and modal functionality.
+4. JSONPlaceholder API: This mock API is used to fetch and display blog posts.
 ## Features
 Blog Post Container: Displays a list of blog posts fetched from an API.
 Modal Window: Shows detailed content of a selected post.
