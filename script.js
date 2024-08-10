@@ -20,7 +20,7 @@ function displayPosts(posts) {
         postElement.innerHTML = `
             <h2>${post.title}</h2>
             <p>${post.body.substring(0, 100)}...</p>
-            <button onclick="showPostDetails(${post.id})">Подробнее</button>
+            <button onclick="showPostDetails(${post.id})">Show more</button>
         `;
         postsContainer.appendChild(postElement);
     });
